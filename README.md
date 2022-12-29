@@ -1,0 +1,2 @@
+# rust_waraiotoko_demo
+方々で実装されている笑い男のヤツをrustで実装してみた
